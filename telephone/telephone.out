@@ -1,0 +1,5 @@
+Starting Telephone with 3 MPI Ranks...
+MPI rank 0 starting message: Hi Professor Bindel! 
+MPI rank 1 received message: Hi ProfessoY Bindel!
+MPI rank 2 received message: Hi ProfessoYbleghel!
+MPI rank 0 received message: Hi Profegarghleghel!
